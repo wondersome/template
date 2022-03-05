@@ -125,4 +125,17 @@ button {
   font-weight: bold;
   text-align: right;
   color: #1F2937;
+  font-size: 18px;
+}
+
+.footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 52px;
+  display: flex;
+  align-items: center;;
+  justify-content: center;
+  background: #1F2937;
+  color: #F9FAF8;
 }
